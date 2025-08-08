@@ -1,3 +1,6 @@
+> ⚠️ **THIS REPOSITORY IS NO LONGER MAINTAINED**  
+> This project is archived and will not receive updates or support.
+
 # C Programming Practice Programs
 
 Welcome to my collection of C programming projects! Here, you'll find a variety of programs created primarily for practice. Each program demonstrates different concepts and techniques in C, helping me (and hopefully you!) deepen understanding of the language.
